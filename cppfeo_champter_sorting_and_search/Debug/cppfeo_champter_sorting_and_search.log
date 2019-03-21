@@ -1,0 +1,7 @@
+﻿  note.cpp
+  main_test.cpp
+c:\users\lanxufeng\desktop\c++programming\cppfeo_champter_sorting_and_search\main_test.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  function_def.cpp
+  Generating Code...
+  cppfeo_champter_sorting_and_search.vcxproj -> C:\Users\lanxufeng\Desktop\C++programming\cppfeo_champter_sorting_and_search\Debug\cppfeo_champter_sorting_and_search.exe
+  cppfeo_champter_sorting_and_search.vcxproj -> C:\Users\lanxufeng\Desktop\C++programming\cppfeo_champter_sorting_and_search\Debug\cppfeo_champter_sorting_and_search.pdb (Full PDB)

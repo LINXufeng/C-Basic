@@ -1,0 +1,10 @@
+﻿  vector_algorithm.cpp
+c:\users\lanxufeng\desktop\c++programming\partially_array_algorithm_and_vector\vector_algorithm.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\lanxufeng\desktop\c++programming\partially_array_algorithm_and_vector\vector_algorithm.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  maincpp.cpp
+  Generating Code...
+  Compiling...
+  algorithm_of_array.cpp
+  Generating Code...
+  partially_array_algorithm_and_vector.vcxproj -> C:\Users\lanxufeng\Desktop\C++programming\partially_array_algorithm_and_vector\Debug\partially_array_algorithm_and_vector.exe
+  partially_array_algorithm_and_vector.vcxproj -> C:\Users\lanxufeng\Desktop\C++programming\partially_array_algorithm_and_vector\Debug\partially_array_algorithm_and_vector.pdb (Full PDB)
